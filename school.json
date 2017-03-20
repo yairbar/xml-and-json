@@ -1,0 +1,20 @@
+{
+"school":"ort",
+{
+"class name":"A1",
+"students":[
+{
+
+"first name":"yair",
+
+"last name":"baroch",
+
+"grades":
+  {
+   "C":100,
+   "HTMI":100,
+    "SQL":100,
+    "JAVA":100,
+  },
+
+    }]}}

@@ -1,0 +1,83 @@
+<school name="ort">
+    <class name="progrem a">
+<student>
+    <last_name>baroch</last_name>
+    <first_name>yair</first_name>
+    <subjects>
+    
+        <subject>
+    <subject_name>C</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+            <subject>
+    <subject_name>SQL</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+        
+            <subject>
+    <subject_name>HTML</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+            
+        <subject>
+    <subject_name>boliany</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+        
+            <subject>
+    <subject_name>linary</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+    
+    
+    
+    
+    </subjects>
+    
+
+
+
+</student>
+</class>
+    
+     <class name="progrem b">
+<student>
+    <last_name>baroch</last_name>
+    <first_name>yair</first_name>
+    <subjects>
+    
+        <subject>
+    <subject_name>C</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+            <subject>
+    <subject_name>SQL</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+        
+            <subject>
+    <subject_name>HTML</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+            
+        <subject>
+    <subject_name>boliany</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+        
+            <subject>
+    <subject_name>linary</subject_name> 
+    <subject_grade>100</subject_grade>
+    </subject>
+    
+    
+    
+    
+    </subjects>
+    
+
+
+
+</student>
+</class>
+</school>
